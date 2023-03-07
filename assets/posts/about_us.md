@@ -17,16 +17,11 @@ Robot (a.k.a. Team 9) is comprised of four MIT undergraduates from MIT's EECS de
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <span class="image left about">![](assets/images/about/cat.jpeg)</span>
 
 **Abdurahman Sherif** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed consequat ligula. Aliquam erat volutpat. Cras iaculis diam vitae nunc ultricies, et egestas lorem eleifend. Ut sit amet leo vitae libero maximus molestie non ac nunc. Ut ac mi ante. Vivamus convallis convallis neque, sit amet sollicitudin arcu bibendum sit amet. Phasellus finibus dolor vitae leo cursus, eu lobortis nisl blandit.
 
-<br>
 <br>
 <br>
 
