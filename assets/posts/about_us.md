@@ -1,17 +1,17 @@
 # About Us
 
-<span class="image main">![](assets/images/about/team.jpg)</span>
+<span class="image main">![](assets/images/about/team.jpeg)</span>
 
 Robot (a.k.a. Team 9) is comprised of four MIT undergraduates from MIT's EECS department. The team varies in experience, but overall shares a genuine interest in topics around autonomy, such as path planning, computer vision, and control systems. These interests in autonomy, along with graduation requirements, drove them all indivdually to take 6.4200 and will drive the team towards a succesful race by the end of the semester.
 
-<span class="image left about">![](assets/images/about/erica.jpg)</span>
+<span class="image left about">![](assets/images/about/cat.jpeg)</span>
 
 **Erica Radler** insert intro.
 
 <br>
 <br>
 
-<span class="image right about">![](assets/images/about/brandon.JPG)</span>
+<span class="image left about">![](assets/images/about/cat.jpeg)</span>
 
 **Brandon Liang** insert intro.
 
@@ -22,7 +22,7 @@ Robot (a.k.a. Team 9) is comprised of four MIT undergraduates from MIT's EECS de
 <br>
 <br>
 
-<span class="image left about">![](assets/images/about/abdurahman.JPG)</span>
+<span class="image left about">![](assets/images/about/cat.jpeg)</span>
 
 **Abdurahman Sherif** insert intro.
 
