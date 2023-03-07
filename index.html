@@ -10,9 +10,10 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css" integrity="sha384-TEMocfGvRuD1rIAacqrknm5BQZ7W7uWitoih+jMNFXQIbNl16bO8OZmylH/Vi/Ei" crossorigin="anonymous">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
-	<body class="is-preload">
+	<body>
 
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -20,7 +21,7 @@
 				<!-- Header -->
 					<header id="header">
 						<div class="logo">
-							<span class="icon fa-gem"></span>
+							<span class="icon fa-car"></span>
 						</div>
 						<div class="content">
 							<div class="inner">
@@ -31,7 +32,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">About Us</a></li>
+								<li><a href="#about_us">About Us</a></li>
 								<li><a href="#labs">Labs</a></li>
 								<li><a href="#slides">Slides</a></li>
 								<li><a href="https://github.com/rss2023-9" target="_blank">GitHub</a></li>
@@ -43,27 +44,68 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- About Us -->
-							<article id="about">
-								<h2 class="major">About Us</h2>
-								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+						<!-- About -->
+							<article id="about_us">
 							</article>
 
-						<!-- Labs -->
+						<!-- Lab Directory -->
 							<article id="labs">
 								<h2 class="major">Labs</h2>
-								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+
+								<a href="#lab3">
+									<h3 class="minor">Lab 3</h3>
+									<p>Wall Following</p>
+								</a>	
+
+								<a href="#lab4">
+									<h3 class="minor">Lab 4</h3>
+									<p>Visual Servoing & Lane Following</p>
+								</a>
+
+								<a href="#lab5">
+									<h3 class="minor">Lab 5</h3>
+									<p>Localization & SLAM</p>
+								</a>
+
+								<a href="#lab6">
+									<h3 class="minor">Lab 6</h3>
+									<p>Motion Planning & Trajectory Following</p>
+								</a>
+
+								<a href="#final">
+									<h3 class="minor">Final Challenge</h3>
+									<p>Final Challenge</p>
+								</a>
 							</article>
 
-						<!-- Slides -->
+						<!-- Lab Presentations -->
 							<article id="slides">
 								<h2 class="major">Slides</h2>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+
+								<a href="#">
+									<h3 class="minor">Lab 3</h3>
+									<p>Wall Following</p>
+								</a>	
+
+								<a href="#">
+									<h3 class="minor">Lab 4</h3>
+									<p>Visual Servoing & Lane Following</p>
+								</a>
+
+								<a href="#">
+									<h3 class="minor">Lab 5</h3>
+									<p>Localization & SLAM</p>
+								</a>
+
+								<a href="#">
+									<h3 class="minor">Lab 6</h3>
+									<p>Motion Planning & Trajectory Following</p>
+								</a>
+
+								<a href="#">
+									<h3 class="minor">Final Challenge</h3>
+									<p>Final Challenge</p>
+								</a>
 							</article>
 
 					</div>
@@ -80,10 +122,15 @@
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
+			<script src="assets/js/showdown.min.js"></script>
+			<script src="assets/js/labs.js"></script>
 			<script src="assets/js/main.js"></script>
-
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js" integrity="sha384-jmxIlussZWB7qCuB+PgKG1uLjjxbVVIayPJwi6cG6Zb4YKq0JIw+OMnkkEC7kYCq" crossorigin="anonymous"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/contrib/auto-render.min.js" integrity="sha384-IiI65aU9ZYub2MY9zhtKd1H2ps7xxf+eb2YFG9lX6uRqpXCvBTOidPRCXCrQ++Uc" crossorigin="anonymous"></script>
+			<script>
+				renderMathInElement(document.body);
+			</script>
 	</body>
 </html>
