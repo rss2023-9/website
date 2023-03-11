@@ -18,7 +18,7 @@ You can find the PDF version of our lab report [here](https://drive.google.com/f
 	}
 </style>
 
-<div class="image_grid">
+<div class="image-grid">
 
 <p align="center">
   	<img width="300" src="assets/images/wall_follower/sf_1.gif">
