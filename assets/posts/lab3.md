@@ -8,5 +8,5 @@ Lab 3
 You can find the PDF version of our lab report [here](https://drive.google.com/file/d/1FVIkmWdaSe2OyTu_l8AlUdAgZb04LqoW/view?usp=sharing).
 
 <p align="center">
-	<object data="https://drive.google.com/file/d/1FVIkmWdaSe2OyTu_l8AlUdAgZb04LqoW/view?usp=sharing" style="width:50%">
+	<object data="https://drive.google.com/file/d/1FVIkmWdaSe2OyTu_l8AlUdAgZb04LqoW/view?usp=sharing" width="700">
 </p>
