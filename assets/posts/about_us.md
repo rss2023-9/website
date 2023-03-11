@@ -29,6 +29,9 @@ Robot (a.k.a. Team 9) is comprised of five MIT undergraduates from MIT's EECS de
 
 **Rumaisa Abdulhai** is originally from Chennai, India. She is currently a sophomore studying Computer Science & Artificial Intelligence and is a part of MIT's Sensing, Perception, Autonomy, and Robot Kinetics (SPARK) Laboratory. She is an executive member of Borderline at MIT, a club that paints and animates murals in MIT's open tunnels. In her free time, she enjoys drawing, crocheting, and trying out new foods.
 
+<br>
+<br>
+
 <span class="image left about">![](assets/images/about/cat.jpeg)</span>
 
 **Navpreet Singh** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed consequat ligula. Aliquam erat volutpat. Cras iaculis diam vitae nunc ultricies, et egestas lorem eleifend. Ut sit amet leo vitae libero maximus molestie non ac nunc. Ut ac mi ante. Vivamus convallis convallis neque, sit amet sollicitudin arcu bibendum sit amet. Phasellus finibus dolor vitae leo cursus, eu lobortis nisl blandit.
