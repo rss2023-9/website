@@ -1,6 +1,8 @@
 Lab 3
 =====
 
+You can find the PDF version of our lab report [here](../documents/lab3_report.pdf).
+
 ## Introduction - [Abdurahman Sherif]
 
 <!-- include overview and motivations -->
