@@ -1,7 +1,7 @@
 Lab 3
 =====
 
-You can find the PDF version of our lab report [here](../documents/lab3_report.pdf).
+You can find the PDF version of our lab report [here](https://drive.google.com/file/d/1FVIkmWdaSe2OyTu_l8AlUdAgZb04LqoW/view?usp=sharing).
 
 ## Introduction - [Abdurahman Sherif]
 
