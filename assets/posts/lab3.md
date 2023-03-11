@@ -9,30 +9,22 @@ You can find the PDF version of our lab report [here](https://drive.google.com/f
 
 ## Safety Controller Tests
 
-<p align="center">
-  <img width="460" height="300" src="assets/images/wall_follower/sf_1.gif">
-</p>
-<p align="center">
-  <b> Test 1 </b>
-</p>
+
+<style>
+	.image-grid {
+		display: grid;
+		grid-template-columns: auto auto;
+		margin: 5px;
+	}
+</style>
+
+<div class="image_grid">
 
 <p align="center">
-  <img width="460" height="300" src="assets/images/wall_follower/sf_2.gif">
-</p>
-<p align="center">
-  <b> Test 2 </b>
-</p>
-
-<p align="center">
-  <img width="460" height="300" src="assets/images/wall_follower/sf_3.gif">
-</p>
-<p align="center">
-  <b> Test 3 </b>
+  	<img width="300" src="assets/images/wall_follower/sf_1.gif">
+	<img width="300" src="assets/images/wall_follower/sf_2.gif">
+	<img width="300" src="assets/images/wall_follower/sf_3.gif">
+	<img width="300" src="assets/images/wall_follower/sf_4.gif">
 </p>
 
-<p align="center">
-  <img width="460" height="300" src="assets/images/wall_follower/sf_4.gif">
-</p>
-<p align="center">
-  <b> Test 4 </b>
-</p>
+</div>
