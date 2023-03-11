@@ -19,12 +19,15 @@ You can find the PDF version of our lab report [here](https://drive.google.com/f
 </style>
 
 <div class="image-grid">
-
 <p align="center">
-  	<img width="300" src="assets/images/wall_follower/sf_1.gif">
-	<img width="300" src="assets/images/wall_follower/sf_2.gif">
-	<img width="300" src="assets/images/wall_follower/sf_3.gif">
-	<img width="300" src="assets/images/wall_follower/sf_4.gif">
+  	<img height="300" width="400" src="assets/images/wall_follower/sf_1.gif">
+	<img height="300" width="400" src="assets/images/wall_follower/sf_2.gif">
 </p>
+</div>
 
+<div class="image-grid">
+<p align="center">
+	<img height="300" width="400" src="assets/images/wall_follower/sf_3.gif">
+	<img height="300" width="400" src="assets/images/wall_follower/sf_4.gif">
+</p>
 </div>
