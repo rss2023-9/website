@@ -6,8 +6,7 @@ Robot (a.k.a. Team 9) is comprised of five MIT undergraduates from MIT's EECS de
 
 <span class="image left about">![](assets/images/about/cat.jpeg)</span>
 
-**Erica Radler** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed consequat ligula. Aliquam erat volutpat. Cras iaculis diam vitae nunc ultricies, et egestas lorem eleifend. Ut sit amet leo vitae libero maximus molestie non ac nunc. Ut ac mi ante. Vivamus convallis convallis neque, sit amet sollicitudin arcu bibendum sit amet. Phasellus finibus dolor vitae leo cursus, eu lobortis nisl blandit.
-
+**Erica Radler** is a senior at MIT studying Computer Science and Engineering and curretly researches with the Internet Policy Research Initiative at MIT's Computer Science and Artificial Intelligence Lab. She plays for MIT's field hockey team, and her most recent personal project was building a shelf in the wood working shop (she has much more experience with machine learning tools than actual machines and tools). In her free time, she enjoys skiing, reading, and running on Boston's esplanade. 
 <br>
 <br>
 
