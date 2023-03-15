@@ -33,7 +33,6 @@ Robot (a.k.a. Team 9) is comprised of five MIT undergraduates from MIT's EECS de
 
 <span class="image left about">![](assets/images/about/cat.jpeg)</span>
 
-**Navpreet Singh** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed consequat ligula. Aliquam erat volutpat. Cras iaculis diam vitae nunc ultricies, et egestas lorem eleifend. Ut sit amet leo vitae libero maximus molestie non ac nunc. Ut ac mi ante. Vivamus convallis convallis neque, sit amet sollicitudin arcu bibendum sit amet. Phasellus finibus dolor vitae leo cursus, eu lobortis nisl blandit.
-
+**Navpreet Singh** is a sophomore studying Artificial Intelligence and Decision making at MIT. He is currently a member of the Decentralized Information Group at CSAIL and a researcher at the City Science Group at the MIT Media Lab. Originally from Long Island, New York, Nav is an avid Yankees fanatic while also enjoying jazz music and traveling in his free time. 
 <br>
 <br>
