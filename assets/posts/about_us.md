@@ -25,6 +25,7 @@ Robot (a.k.a. Team 9) is comprised of five MIT undergraduates from MIT's EECS de
 <br>
 <br>
 <br>
+<br>
 
 <span class="image right about">![](assets/images/about/rumaisa.JPG)</span>
 
