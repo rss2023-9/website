@@ -20,7 +20,7 @@ Robot (a.k.a. Team 9) is comprised of five MIT undergraduates from MIT's EECS de
 
 <span class="image left about">![](assets/images/about/asherif.jpeg)</span>
 
-**Abdurahman Sherif** is a junior at MIT studying Computer Science and Engineering. He is currently president of the MIT Muslim Students Association.
+**Abdurahman Sherif** is a junior from Houston, TX studying Electrical Engineering and Computer Science. He has previously done UROPs in the MIT Mechatronics Lab and holds an interest in machine learning and autonomous systems. In his free time he enjoys playing and watching soccer and basketball.
 
 <br>
 <br>
