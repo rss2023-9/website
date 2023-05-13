@@ -1,6 +1,6 @@
 # About Us
 
-<span class="image main">![](assets/images/about/team.jpeg)</span>
+<span class="image main">![](assets/images/about/team.png)</span>
 
 Robot (a.k.a. Team 9) is comprised of five MIT undergraduates from MIT's EECS department. The team varies in experience, but overall shares a genuine interest in topics around autonomy, such as path planning, computer vision, and control systems. These interests in autonomy, along with graduation requirements, drove them all indivdually to take 6.4200 and will drive the team towards a succesful race by the end of the semester.
 
